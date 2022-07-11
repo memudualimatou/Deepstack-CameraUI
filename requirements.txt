@@ -1,10 +1,9 @@
 deepstack-sdk
 streamlit
-opencv-python
+opencv-python-headless
 numpy 
 pillow
 requests
-ffmpeg
-sudo apt-get install ffmpeg libsm6 libxext6  
+
 
 
