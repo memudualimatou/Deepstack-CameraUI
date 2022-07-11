@@ -1,9 +1,9 @@
 deepstack-sdk
 streamlit
-opencv-python
+opencv-contrib-python
 numpy 
 pillow
 requests
 ffmpeg
-libxext6
+
 
