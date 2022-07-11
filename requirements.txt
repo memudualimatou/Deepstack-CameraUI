@@ -1,6 +1,5 @@
 deepstack-sdk
 streamlit
-opencv
 opencv-python
 numpy 
 pillow
